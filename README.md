@@ -1,11 +1,18 @@
 # BreslopezRepo
 //////////////////////////////////////////////////////////////
+
 //                                                          //
+
 //         Instituto Tecnológico de Costa Rica              //  
+
 //        Laboratorio Diseño de Sistemas Digitales          //
+
 //                                                          //
+
 //                  II Semestre, 2015                       //
+
 //                                                          //
+
 //////////////////////////////////////////////////////////////
 
 Intereses: Proyectos del curso, proyectos Arduino, TEC.
