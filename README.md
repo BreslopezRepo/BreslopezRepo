@@ -10,4 +10,4 @@
 
 **Intereses:** Proyectos del curso, proyectos Arduino, TEC.
 
-Acá encontrarán diferentes proyectos del curso de laboratorio de sistemas digitales, impartido en el Instituto Tecnológico de Costa Rica, como también proyectos de Arduino, entre otros.
+Acá encontrarán diferentes proyectos del curso de laboratorio de sistemas digitales, impartido en el Instituto Tecnológico de Costa Rica, como también proyectos de Arduino, documentación, hojas técnicas, entre otros.
