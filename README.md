@@ -2,12 +2,12 @@
 
 #Instituto Tecnológico de Costa Rica              
 
-##Laboratorio Diseño de Sistemas Digitales          
+##Proyecto de Graduación          
 
 
 
-###II Semestre, 2015                     
+###I Semestre, 2018                     
 
-**Intereses:** Proyectos del curso, proyectos Arduino, TEC.
+**Intereses:** Documentación, Simulaciones, Referencias.
 
-Acá encontrarán diferentes proyectos del curso de laboratorio de sistemas digitales, impartido en el Instituto Tecnológico de Costa Rica, como también proyectos de Arduino, documentación, hojas técnicas, entre otros.
+En este repositorio se encuentra todo el material relacionado al proyecto de graduación "Modelo Predictivo del Desempeño Eléctrico en Función de la Geometría de Trazas de Cobre con Pestañas en Circuitos Impresos".
